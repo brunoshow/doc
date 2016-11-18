@@ -5,12 +5,19 @@ The goal is to have a starter project of appointment apps.
 **This app is just for a test! It is still being developed and it will change in the future.**
 
 ## Try it now!
+```
+Folders:
+- Audibene
+  + Audibene.Core
+  + Audibene.Touch
+```
+### How run
 
 ```
-git clone https://github.com/beeman/loopback-angular-admin.git my-project
-cd my-project
-heroku apps:create my-project
-git push heroku master
+Open Core project restore packages and Build
+Close Core project
+Open Touch project restore packages and Build
+Run
 ```
 
 ## Features and implemented projects
