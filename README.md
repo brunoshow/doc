@@ -25,6 +25,7 @@ Run
 - The automatic type-safe REST library for Xamarin and .NET [Refit paulbets](https://github.com/paulcbetts/refit)
 - An addictive .NET IoC container [Autofac](http://autofac.org)
 - A MVVM framework that integrates with the Reactive Extensions for .NET [ReactiveUI](https://github.com/reactiveui/ReactiveUI#-reactiveui)
+- Image loading, caching & transforming library for Xamarin and Windows [FFImageLoading)
 
 ## TODO:
 
