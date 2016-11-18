@@ -1,4 +1,4 @@
-# appointment app
+# Appointment app
 
 The goal is to have a starter project of appointment apps.
 
@@ -28,7 +28,7 @@ Run
 
 ## TODO:
 
-- Persistence of data with (Realm / Akavache / SQLite)
+- Persistence of data with (Realm / Akavache / SQLite / Servicestack)
 - Generic Mapper
 - Map API 
 - Add tests
