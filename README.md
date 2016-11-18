@@ -32,6 +32,9 @@ Run
 - Generic Mapper
 - Map API 
 - Add tests
+- Globalization
+- Remove Static Strings
+- Organization of Models and DTO's
 
 ## Screenshots
 #### Dashboard
