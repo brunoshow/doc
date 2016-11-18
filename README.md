@@ -6,12 +6,6 @@ The goal is to have a starter project of appointment apps.
 
 ## Try it now!
 
-Deploy an instance on your Heroku account to play around with it!
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-An alternative way to get it running at Heroku is to install the [Heroku Toolbelt](https://toolbelt.heroku.com) and follow these steps:
-
 ```
 git clone https://github.com/beeman/loopback-angular-admin.git my-project
 cd my-project
