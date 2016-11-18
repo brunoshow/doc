@@ -37,13 +37,3 @@ Run
 - Organization of Models and DTO's
 
 ## Screenshots
-#### Dashboard
-![](screenshots/dashboard.png?raw=true)
-#### Markdown Editor
-![](screenshots/pages.png?raw=true)
-#### SweetAlert
-![](screenshots/sweetalert.png?raw=true)
-#### File uploads
-![](screenshots/files.png?raw=true)
-#### Events
-![](screenshots/events.png?raw=true)
