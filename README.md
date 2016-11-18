@@ -28,7 +28,7 @@ Run
 
 ## TODO:
 
-- Persistence of data
+- Persistence of data with (Realm / Akavache / SQLite)
 - Generic Mapper
 - Map API 
 - Add tests
